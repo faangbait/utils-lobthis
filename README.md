@@ -1,6 +1,6 @@
 # Lob This - A CLI Application to Send Postal Mail
 
-![img](https://img.shields.io/badge/build-alpha-yellow) Feel free to steal this code, but don't trust it.
+![img](https://img.shields.io/badge/build-passable-green) This actually works pretty well! Does what it says on the tin. Doesn't do any error-handling.
 
 ## Installation
 1. Create a file called secrets.py with the following information
