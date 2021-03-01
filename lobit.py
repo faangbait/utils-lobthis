@@ -1,6 +1,4 @@
-#!/home/ss/Development/Repositories/lob-this/venv/bin/python3
-# Note - I shebanged this specifically to the location of this project's venv so that I can run it outside of the venv.
-# TODO: Change that.
+#!python3
 
 import argparse, sys, os
 import lob
